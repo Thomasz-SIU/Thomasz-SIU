@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thomasz-SIU
 - I am a student at SIUC studying computer science!
-- I am profiecient in Java and Web Development languages such as JavaScript
+- I am proficient in Java and Web Development languages such as JavaScript
 - 🌱 I’m currently learning C and C++
 - 📫 How to reach me thomas.zemen@siu.edu
 - http://thomaszemen.herokuapp.com/index.html
