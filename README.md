@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thomasz-SIU
+- 👋 Hi, I’m Thomas Zemen
 - I am a student at SIUC studying computer science!
 - I am proficient in Java and Web Development languages such as JavaScript
 - 🌱 I’m currently learning C and C++
